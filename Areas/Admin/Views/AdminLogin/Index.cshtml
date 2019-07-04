@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ECommerce Admin Login</title>
+</head>
+<body>
+    <form method="post"> 
+        @Html.Label("Email")
+        @Html.TextBox("EMail")
+        <br /><br />
+        @Html.Label("Şifre")
+        @Html.Password("Password")
+        <br /><br />
+        <button type="submit">Giriş Yap</button>
+    </form>
+</body>
+</html>
