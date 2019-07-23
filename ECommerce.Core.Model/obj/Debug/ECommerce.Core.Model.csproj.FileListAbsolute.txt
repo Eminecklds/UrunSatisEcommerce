@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\ECommerce.Core.Model\bin\Debug\ECommerce.Core.Model.dll.config
+C:\Users\Lenovo\source\ECommerce.Core.Model\bin\Debug\ECommerce.Core.Model.dll
+C:\Users\Lenovo\source\ECommerce.Core.Model\bin\Debug\ECommerce.Core.Model.pdb
+C:\Users\Lenovo\source\ECommerce.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\ECommerce.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\ECommerce.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\ECommerce.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.csproj.CopyComplete
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.dll
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.pdb
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.Migrations.ilk.resources
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\ECommerce.Core.Model\obj\Debug\ECommerce.Core.Model.Migrations.basket.resources
